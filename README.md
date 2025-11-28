@@ -32,9 +32,13 @@ An all-in-one SaaS platform for educational institutions.
 ---
 
 ### ⚡ Stats
-![Austy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austy2510&show_icons=true&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Austy2510&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Austy's Stats" />
+</p>
 
 ---
 
 ### 📫 Connect with me
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />](https://www.linkedin.com/in/steve-austin-mollik-5158ab236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+<a href="https://www.linkedin.com/in/steve-austin-mollik/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
